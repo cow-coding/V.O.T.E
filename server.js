@@ -8,10 +8,10 @@ app.engine("html", require("ejs").renderFile);
 app.use(express.static(__dirname + "/public"));
 
 var conn = mysql.createConnection({
-  host: "34.64.72.201",
-  user: "root",
-  password: "root",
-  database: "election",
+  host: "your ip address",
+  user: "your mysql user name",
+  password: "your mysql password",
+  database: "your election dataase name",
   multipleStatements: true,
   dialectOptions: {
     options: {
