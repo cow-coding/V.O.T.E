@@ -41,3 +41,5 @@ This is main title of this application.
 If you click the hamburger button, you can check the menu.
 
 ![](https://github.com/ElectionInfo/electionInfo_server/blob/master/imgs/title2.png?raw=true)
+
+Now you can move the menu and use this applications!
