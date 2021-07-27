@@ -9,6 +9,42 @@ Eng Title : V.O.T.E (Vote Or The politicians Every informations)
 
 :white_check_mark: V.O.T.E is a web application that provides information related to elections and politicians.
 
+## Directory
+
+```.sh
+├── README.md
+├── node_modules
+│   └── ...
+│   ...
+│   └── ...
+├── imgs
+│   ├── title1.png
+│   └── title2.png
+├── models
+├── package-lock.json
+├── package.json
+├── public
+│   └── src
+│       ├── readmore.min.js
+│       ├── search.png
+│       ├── sidebar.css
+│       ├── sidebar_bgd.png
+│       ├── stamp.png
+│       ├── style.css
+│       └── w3_sidebar.css
+├── router
+│   └── main.js
+├── server.js
+└── views
+    ├── CandInfo.html
+    ├── CandProm.html
+    ├── Member.html
+    ├── PollPlace.html
+    ├── PrevElec.html
+    ├── about.html
+    └── index.html
+```
+
 ## How to use?
 
 We use the GCP platform to release this application. Please download this servercode and check option.
