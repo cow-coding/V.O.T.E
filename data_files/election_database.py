@@ -36,7 +36,7 @@ pd.options.display.max_colwidth = 100
 
 """# Dataframe make function"""
 
-service_key = 'SE0dHlfRrFs9F7Z8K6y6qmYRqrAFPtIrJnMdsrJLTMm1y5JvTVKl5Z8JpG4%2BBcvj%2Bv9kS1d1%2B8gQBmmxcMqMXg%3D%3D'
+service_key = 'xxxxxxx'
 
 """## Election Code dataframe make function"""
 
