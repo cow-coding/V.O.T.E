@@ -11,7 +11,7 @@ Eng Title : V.O.T.E (Vote Or The politicians Every informations)
 
 ## Demo Page
 
-[https://v-o-t-e.herokuapp.com/PollPlace](https://v-o-t-e.herokuapp.com/PollPlace)
+[Demo Page Link](https://v-o-t-e.herokuapp.com)
 
 ## Directory
 
